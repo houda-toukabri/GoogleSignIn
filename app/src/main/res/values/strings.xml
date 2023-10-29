@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+    <string name="textViewMsgSignIn">This is main activity, sign in to move next activity.</string>
+    <string name="profile_image_description">Image de profil</string>
+    <string name="sign_out_btn">SIGN OUT</string>
+    <string name="web_client_id">800570812909-573sohttpf726jschg2spa0k8vpiabl3.apps.googleusercontent.com</string>
+</resources>
